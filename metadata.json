@@ -1,0 +1,6 @@
+{
+  "name": "Folio",
+  "description": "Every image. One document. Minimalist, local-first tool for combining multiple images into a single, print-ready PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
